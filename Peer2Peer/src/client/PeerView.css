@@ -1,0 +1,29 @@
+/* */
+.bSearch
+{
+    -fx-background-color : black;
+    -fx-text-fill: white;
+}
+
+.root
+{
+    -fx-opacity : 0.80;
+    -fx-background-color : darkgray;
+}
+
+.main
+{
+    -fx-background-color : black;
+}
+
+.text
+{
+    -fx-background-color : white;
+}
+
+.split-pane:horizontal > .split-pane-divider {
+   -fx-background-color: transparent;
+}
+.split-pane:vertical > .split-pane-divider {
+   -fx-background-color: transparent;
+}
